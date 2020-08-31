@@ -1,5 +1,7 @@
 # ANJAY BOT
 
+> Setup Bot Discord using Nodejs with Discord.js
+
 ## You can paste your discord bot token on that env.sample files
 
 - You can interact with reaction when user react the message, bot will give access role for that user
