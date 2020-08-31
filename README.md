@@ -1,0 +1,1 @@
+## You can paste your discord bot token on that env.sample files
