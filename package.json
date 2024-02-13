@@ -13,6 +13,9 @@
   "author": "Aldinonid",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.14.1"
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.11.5"
   }
 }
